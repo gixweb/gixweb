@@ -4,7 +4,12 @@
 <hr>
 
 <h3 align="center"><strong>Só irei postar meus projetos por aqui 💻</h3>
-
+<a href="https://github.com/gisellitiWeb/github-readme-stats">
+  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=gisellitiWeb&theme=transparent" />
+</a>
+<a href="https://github.com/gisellitiWeb/convoychat">
+  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gisellitiWeb&layout=compact&langs_count=8&theme=transparent" />
+</a>
 <p align="center">
   <strong>Faço ADS na faculdade Senac</strong><br>
   <strong>Estou estudando Javascript, MySQL </strong>📚<br>
