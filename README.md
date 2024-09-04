@@ -1,16 +1,25 @@
-- 👋 Hi, I’m @gisellitiWeb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center"> Olá, eu sou <strong>Giselly</strong> bem-vindo ao meu perfil.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<!---
-gisellitiWeb/gisellitiWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h3 align="center">A passionate developer from Brazil</h3>
+<hr>
+
+<h3 align="center"><strong>Só irei postar meus projetos por aqui 💻</h3>
+
+<p align="center">
+  <strong>Faço ADS na faculdade Senac</strong><br>
+  <strong>Estou estudando Javascript, MySQL </strong>📚<br>
+  <strong>Seus conhecimentos (Git/Github, C#...)</strong>🚀<br>
+</p>
+
+<div align="center">
+
+![Your github status](https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=dark)
+<<<<<<< HEAD
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+=======
+
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
