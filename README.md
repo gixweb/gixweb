@@ -11,11 +11,11 @@
   <strong>Seus conhecimentos (Git/Github, C#)</strong>🚀<br>
 </p>
 
-<a href="https://github.com/gisellitiWeb/github-readme-stats">
-  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=gisellitiWeb&theme=dark" />
+<a href="https://github.com/gixweb/github-readme-stats">
+  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=gixweb&theme=dark" />
 </a>
-<a href="https://github.com/gisellitiWeb/convoychat">
-  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gisellitiWeb&layout=compact&langs_count=8&theme=dark" />
+<a href="https://github.com/gixweb/convoychat">
+  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gixweb&layout=compact&langs_count=8&theme=dark" />
 </a>
 
 <h3 align="center">Aprendendo atualmente com:</h3>
