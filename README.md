@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Faço ADS na faculdade Senac</strong><br>
-  <strong>Estou estudando Javascript, MySQL </strong>📚<br>
+  <strong>Estou estudando Java, MySQL </strong>📚<br>
   <strong>Seus conhecimentos (Git/Github, C#)</strong>🚀<br>
 </p>
 
