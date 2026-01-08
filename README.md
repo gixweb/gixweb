@@ -15,10 +15,3 @@ class Skills extends Developer {
 }
 ```
 <hr>
-
-<a href="https://github.com/gixweb-readme-stats">
-  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=gixweb&theme=algolia" />
-</a>
-<a href="https://github.com/gixweb/convoychat">
-  <img height=200 width="47%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gixweb&layout=compact&langs_count=8&theme=algolia" />
-</a>
